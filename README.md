@@ -13,7 +13,7 @@
 
  1. Склонируйте репозиторий: git clone
     https://github.com/inumele/movie-rec.git
- 2. Перейдите в папку: cd movie-recommendation-system
+ 2. Перейдите в папку: cd movie-rec
  3. Установите необходимые библиотеки: pip install -r requirements.txt
 
 ## Использование
